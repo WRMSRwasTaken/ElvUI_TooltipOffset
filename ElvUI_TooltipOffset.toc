@@ -1,0 +1,9 @@
+## Interface: 73000
+## Author: WRMSR
+## Credit: Aezay, Catok
+## Version: 1.3
+## Title: |cff1784d1ElvUI|r TooltipOffset
+## Notes: Adds an option to offset the tooltip if anchor is set to "CURSOR". Idea taken from TipTac. Original credits to Aezay & Catok
+## RequiredDeps: ElvUI
+
+offset.lua
